@@ -1,0 +1,265 @@
+.GLAVNAYA {
+  width: 100%;
+}
+
+.Ftitle {
+  width: 100%;
+  font-weight: bold;
+  font-style: normal;
+  font-family: Fantasque Sans Mono;
+  font-size: 160px;
+  color: #262626;
+  padding: 20px;
+  margin-top: -484px;
+  width: 800px;
+}
+ .plash1 {
+   width: 100%;
+   margin-top: 20px;
+   background-color: #31CA3E;
+   width: 216px;
+   height: 75px;
+   border: 2px solid black;
+   border-radius: 100px;
+   margin-left: 20px;
+ }
+
+ .Mono{
+   font-size: 24px;
+   font-family: Fantasque Sans Mono;
+   font-style: normal;
+   color: #262626;
+   display: flex;
+   justify-content: center;
+   padding: 24px 24px;
+   margin: 0px;
+ }
+
+ .Zag {
+   font-size: 24px;
+   font-family: Fantasque Sans Mono;
+   font-style: normal;
+   color: white;
+   display: flex;
+   justify-content: center;
+   padding: 24px 24px;
+   margin: 0px;
+ }
+
+ .plash2 {
+
+   margin-top: 20px;
+   background-color: #BA5CF3;
+   width: 238px;
+   height: 75px;
+   border: 2px solid black;
+   border-radius: 100px;
+ }
+ .plashki{
+   width: 100%;
+   display: flex;
+   gap: 10px;
+ }
+.Line {
+  margin-top: -1000px;
+  width: 2px;
+  height: 814px;
+  margin-left: 970px;
+  background-color: black;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 40px;
+}
+.vector {
+  width: 231px;
+  height: 304px;
+  margin-top: -160px;
+  margin-left: 829px;
+}
+.Line1 {
+  display: flex;
+  margin-top: -878px;
+  width: 2px;
+  height: 964px;
+  margin-left: 970px;
+  background-color: black;
+}
+ p {
+   font-style: normal;
+   font-family: Fantasque Sans Mono;
+   font-size: 20px;
+   color: #262626;
+   padding: 20px;
+ }
+.From {
+  display: flex;
+  margin-top: -104px;
+}
+.comic {
+  margin-top: -4px;
+  font-weight: bold;
+  color: #BA5CF3;
+  font-size: 64px;
+}
+.Sans {
+  margin-top: -104px;
+  font-size: 32px;
+}
+
+.smilepict {
+  width: 100%;
+}
+.Arrow {
+  margin-left: 250px;
+}
+.author{
+  writing-mode: vertical-rl;
+  margin-left: 320px;
+  margin-top: -520px;
+}
+.authorr{
+  font-size: 60px;
+  font-family: Fantasque Sans Mono;
+  color: black;
+  font-weight: normal;
+}
+.Stitle {
+  display: flex;
+  font-size: 80px;
+  padding: 20px;
+
+  font-family: Fantasque Sans Mono;
+  font-weight: bold;
+  color: #262626;
+}
+.PictPh {
+ display: flex;
+}
+.Phone1 {
+  width: 333px;
+  height: 666px;
+  margin-left: 560px;
+  margin-top: -200px;
+}
+
+.History{
+  margin: 20px;
+  padding: 32px;
+  width: 388px;
+  height: 239px;
+  background-color: #BA5CF3;
+  margin-top: -500px;
+  border: 2px solid black;
+  border-radius: 30px;
+}
+.istoria{
+  margin-top: -10px;
+  font-size: 64px;
+  font-weight: bold;
+  color: white;
+}
+.istoriamin{
+  font-size: 24px;
+  margin-top: -80px;
+  line-height: 29px;
+  color: white;
+}
+.prim1 {
+  margin-left: -50px;
+  font-size: 24px;
+  margin-top: 40px;
+}
+.smile1 {
+  margin-left: -31px;
+  margin-top: 500px;
+  width: 64px;
+  height: 64px;
+}
+.primside1 {
+  margin-top: 450px;
+  font-size: 16px;
+}
+
+.Ttitle {
+  display: flex;
+  font-size: 80px;
+  padding: 20px;
+  margin-top: 100px;
+  font-family: Fantasque Sans Mono;
+  font-weight: bold;
+  color: #262626;
+}
+.Development {
+
+  margin-top: 46px;
+  margin-left: 20px;
+  padding: 32px;
+  width: 823px;
+  height: 66px;
+  background-color: #31CA3E;
+  border: 2px solid black;
+  border-radius: 30px;
+}
+.dev {
+  margin-top: -16px;
+  font-size: 24px;
+  line-height: 130%;
+}
+.rectangle {
+  width: 100%;
+  height: 394px;
+  background-color: #262626;
+  margin-top: 40px;
+}
+
+.code {
+  padding: 36px;
+  margin-left: 40px;
+}
+.olimpycs {
+  margin-top: 80px;
+  width: 840px;
+  height: 465px;
+  margin-left: 20px;
+}
+.Line2 {
+  display: flex;
+  margin-top: -1378px;
+  width: 2px;
+  height: 1464px;
+  margin-left: 970px;
+  background-color: black;
+}
+.smile2 {
+  margin-left: -31px;
+  margin-top: 1100px;
+  width: 64px;
+  height: 64px;
+}
+.primside2{
+  margin-top: 1080px;
+  font-size: 16px;
+}
+.Nach {
+  display: flex;
+  margin-left: 20px;
+  gap: 110px;
+}
+.plash3{
+  background-color: #FFF956;
+  width: 214px;
+  height: 74px;
+  border: 2px solid black;
+  border-radius: 100px;
+
+}
+.nach4 {
+  display: flex;
+  justify-content: center;
+}
+.code1 {
+  color: white;
+}
